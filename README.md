@@ -95,7 +95,7 @@ I'm a **full-stack web developer** from Mohammedia, Morocco. I build complete we
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,astro,vue,html,css,bootstrap&perline=11" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Astro, Vue.js, HTML5, CSS3, Bootstrap"> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,spring,java,python,c&perline=11" alt="Laravel, PHP, Node.js, Spring Boot, Java, Python, C"> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=11" alt="MySQL, SQLite, MongoDB"> |
-| **Design & motion** | <img src="https://skillicons.dev/icons?i=figma,framer,gsap&perline=11" alt="Figma, Framer, GSAP"> |
+| **Design & motion** | <img src="https://skillicons.dev/icons?i=figma,threejs&perline=11" alt="Figma, Three.js"> <a href="https://www.framer.com/@elmehdisekrare/"><img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" alt="Framer"></a> <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" height="48" alt="GSAP"> |
 | **DevOps & tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,netlify,vercel,postman,vscode,powershell,linux&perline=11" alt="Git, GitHub, Docker, Cloudflare, Netlify, Vercel, Postman, VS Code, PowerShell, Linux"> |
 
 Also: TanStack (Start, Query, Router), shadcn/ui, Framer Motion, REST APIs, GraphQL, Shopify Storefront API, OpenAI API, n8n automations, PL/SQL, Jest, PHPUnit, Agile (Scrum), UML, Merise.
